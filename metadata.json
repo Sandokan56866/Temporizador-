@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NitroTimer Sport",
+  "description": "A high-performance, high-contrast sports timer designed for visibility and ease of use during intense workouts.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
